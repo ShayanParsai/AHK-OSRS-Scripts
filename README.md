@@ -1,5 +1,9 @@
 # AHK-OSRS-Scripts
-OSRS Pking scripts
+
+Scripts made to make PK life easier in OSRS, for coustum made scripts add my discord: Shayan#4441
+
+VERY low ban rate
+
 
 
 # Count
