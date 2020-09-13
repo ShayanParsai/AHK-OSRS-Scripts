@@ -10,13 +10,13 @@ VERY low ban rate
 
 * 2xGmaul+Whack+tripple eat : 5
 
-* Ice Barrage : 2
+* Ice Barrage : 3
+
+* 2xGmaul+Whack : 3
 
 * Tripple eat : 2
 
-* 2xGmaul+Whack : 2
-
-* Gmaul-Ags : 1
+* Gmaul-Ags : 2
 
 * Gear off-veng : 1
 
