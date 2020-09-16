@@ -14,11 +14,15 @@ VERY low ban rate
 
 * 2xGmaul+Whack : 3
 
+* tailor-made script : 2
+
 * Tripple eat : 2
 
 * Gmaul-Ags : 2
 
 * Gear off-veng : 1
+
+
 
 
 
