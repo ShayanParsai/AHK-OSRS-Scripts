@@ -14,7 +14,7 @@ VERY low ban rate
 
 * 2xGmaul+Whack : 3
 
-* tailor-made script : 2
+* tailor-made script : 3
 
 * Tripple eat : 2
 
