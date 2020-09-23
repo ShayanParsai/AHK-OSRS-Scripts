@@ -20,7 +20,7 @@ VERY low ban rate
 
 * Gmaul-Ags : 2
 
-* Gear off-veng : 1
+* Gear off-veng :2
 
 
 
