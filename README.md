@@ -10,9 +10,9 @@ VERY low ban rate
 
 * 2xGmaul+Whack+tripple eat : 7
 
-* Ice Barrage : 3
+* Ice Barrage : 4
 
-* 2xGmaul+Whack : 3
+* 2xGmaul+Whack : 4
 
 * tailor-made script : 3
 
