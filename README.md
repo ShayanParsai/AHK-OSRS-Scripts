@@ -8,7 +8,7 @@ VERY low ban rate
 
 # Count
 
-* 2xGmaul+Whack+tripple eat : 7
+* 2xGmaul+Whack+tripple eat : 10
 
 * Ice Barrage : 4
 
