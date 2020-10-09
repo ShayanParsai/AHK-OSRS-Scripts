@@ -16,9 +16,9 @@ VERY low ban rate
 
 * tailor-made script : 3
 
-* Tripple eat : 2
+* Tripple eat : 3
 
-* Gmaul-Ags : 2
+* Gmaul-Ags : 3
 
 * Gear off-veng :2
 
